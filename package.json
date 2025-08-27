@@ -1,0 +1,21 @@
+{
+  "name": "cobaltpositron",
+  "displayName": "CobaltPositron",
+  "description": "A dark theme based on the Cobalt RStudio theme for VS Code.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.103.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "CobaltPositron-Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/CobaltPositron-Theme-color-theme.json"
+      }
+    ]
+  }
+}
