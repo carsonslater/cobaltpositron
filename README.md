@@ -15,7 +15,7 @@ Once the theme is published to the **VSX Marketplace**, you can install it direc
    - Or press:
      - `Ctrl+Shift+X` (Windows/Linux)  
      - `Cmd+Shift+X` (macOS)
-3. Search for **CobaltPositron**.
+3. Search for **CobaltPositron-Theme**.
 4. Click **Install**.
 
 ## Activation
@@ -26,8 +26,27 @@ After installing:
    - `Ctrl+Shift+P` (Windows/Linux)  
    - `Cmd+Shift+P` (macOS)
 2. Type `Color Theme` and select **Preferences: Color Theme**.
-3. From the list, choose **CobaltPositron**.
+3. From the list, choose **CobaltPositron-Theme**.
 
+Here are the `settings.json` the author of this theme is running at the time of publication:
+
+```
+{
+    "window.autoDetectColorScheme": true,
+    "workbench.preferredDarkColorTheme": "CobaltPositron-Theme",
+    "files.associations": {
+        "renv.lock": "json"
+    },
+    "workbench.iconTheme": "ayu",
+    "workbench.settings.editor": "json",
+    "editor.formatOnSave": true,
+    "editor.fontFamily": "'JetBrains Mono', monospace",
+    "editor.fontSize": 13,
+    "editor.fontWeight": "normal",
+    "editor.fontLigatures": true,
+    "editor.parameterHints.enabled": false
+}
+```
 
 ## Features
 
