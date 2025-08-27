@@ -1,7 +1,5 @@
 # CobaltPositron Theme
 
-![Cobalt Theme Logo](icon.png)
-
 A modern, dark cobalt-inspired theme designed for **Positron** and **Visual Studio Code**.  
 This theme brings deep blues, sharp contrast, and a developer-friendly aesthetic to your coding environment.
 
