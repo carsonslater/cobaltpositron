@@ -38,7 +38,7 @@ After installing:
 
 ## Contributing
 
-If you have suggestions or find issues, please open an issue or pull request on the [GitHub repository](https://github.com/yourusername/cobaltpositron-theme).
+If you have suggestions or find issues, please open an issue or pull request on the [GitHub repository](https://github.com/carsonslater/cobaltpositron).
 
 
 
