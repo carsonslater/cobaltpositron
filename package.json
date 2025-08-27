@@ -17,5 +17,9 @@
         "path": "./themes/CobaltPositron-Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carsonslater/cobaltpositron.git"
   }
 }
