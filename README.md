@@ -35,6 +35,8 @@ After installing:
 - Carefully chosen accent colors for syntax highlighting.  
 - Optimized for both long coding sessions and presentations.  
 
+![Example of how the IDE looks.](example.png)
+
 
 ## Contributing
 
