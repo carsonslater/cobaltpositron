@@ -1,5 +1,6 @@
 {
   "name": "cobaltpositron",
+  "publisher": "CarsonSlater",
   "displayName": "CobaltPositron",
   "description": "A dark theme based on the Cobalt RStudio theme for VS Code.",
   "version": "0.0.1",
