@@ -4,7 +4,24 @@
 		"editor.background": "#002240",
 		"editor.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#1478DB",
-		"sideBarTitle.foreground": "#BBBBBB"
+		"sideBarTitle.foreground": "#BBBBBB",
+		// LaTeX/Math preview colors
+		"editorWidget.background": "#ffffff",
+		"editorWidget.foreground": "#002240",
+		"editorHoverWidget.background": "#ffffff",
+		"editorHoverWidget.foreground": "#002240",
+		"panel.background": "#ffffff",
+		"panel.foreground": "#002240",
+		"panelSection.background": "#ffffff",
+		"panelSectionHeader.background": "#f0f0f0",
+		"panelSectionHeader.foreground": "#002240",
+		// Additional widget colors that might affect equation preview
+		"quickInput.background": "#ffffff",
+		"quickInput.foreground": "#002240",
+		"dropdown.background": "#ffffff",
+		"dropdown.foreground": "#002240",
+		"input.background": "#ffffff",
+		"input.foreground": "#002240"
 	},
 	"tokenColors": [
 		{
