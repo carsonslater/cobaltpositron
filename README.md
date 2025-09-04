@@ -32,6 +32,7 @@ Here are the `settings.json` the author of this theme is running at the time of 
 {
     "window.autoDetectColorScheme": true,
     "workbench.preferredDarkColorTheme": "CobaltPositron-Theme",
+    // color theme settings
     "workbench.colorCustomizations": {
         "[CobaltPositron-Theme]": {
             "tab.inactiveBackground": "#002240",
@@ -44,7 +45,7 @@ Here are the `settings.json` the author of this theme is running at the time of 
             "sideBar.background": "#002240",
             "titleBar.activeBackground": "#002240"
         }
-    }
+    },
     "files.associations": {
         "renv.lock": "json"
     },
@@ -99,6 +100,7 @@ These settings are derived from [Christopher Kenny's blog post](https://christop
 
 ![Example of how the IDE looks.](example.png)
 
+Note this example reflects the custom tweaks I made in my `settings.json` file.
 
 ## Contributing
 
