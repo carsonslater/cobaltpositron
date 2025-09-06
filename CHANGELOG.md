@@ -40,3 +40,30 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 "sideBar.background": "#002240",
 "titleBar.activeBackground": "#002240"
 ```
+## [0.1.6]
+
+### Added:
+
+A ./media/latex-dark.css file containing:
+
+/* Making LaTeX render white in Quarto preview */
+.math.inline,
+.math.display,
+.katex {
+    color: white !important;
+}
+
+## [0.1.7]
+
+### Removed:
+
+A ./media/latex-dark.css file containing:
+
+/* Making LaTeX render white in Quarto preview */
+.math.inline,
+.math.display,
+.katex {
+    color: white !important;
+}
+
+The thing I was trying to do broke the theme, so I basically reverted backt o 0.1.5.
