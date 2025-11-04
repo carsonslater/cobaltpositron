@@ -1,7 +1,7 @@
 # CobaltPositron Theme
 
-[![Open VSX Version](https://img.shields.io/open-vsx/v/nathenbyford/conversational-dark?color=7eb6d9&label=Open%20VSX)](https://open-vsx.org/extension/CarsonSlater/cobaltpositron)
-[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/nathenbyford/conversational-dark?color=9d88a8&label=Installs)](https://open-vsx.org/extension/CarsonSlater/cobaltpositron)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/CarsonSlater/cobaltpositron?color=7eb6d9&label=Open%20VSX)](https://open-vsx.org/extension/CarsonSlater/cobaltpositron)
+[![Open VSX Downloads](https://img.shields.io/open-vsx/dt/CarsonSlater/cobaltpositron?color=9d88a8&label=Installs)](https://open-vsx.org/extension/CarsonSlater/cobaltpositron)
 
 A modern, dark cobalt-inspired theme designed for **Positron** and **Visual Studio Code**.
 This theme brings deep blues, sharp contrast, and a developer-friendly aesthetic to your coding environment.
