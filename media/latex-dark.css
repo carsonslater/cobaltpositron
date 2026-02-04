@@ -1,6 +1,20 @@
-/* Making LaTeX render white in Quarto preview */
+/* Making LaTeX render white in Quarto preview and sidebars */
+.math,
 .math.inline,
 .math.display,
-.katex {
+.katex,
+.katex-display,
+.MathJax,
+.MathJax_Display,
+mjx-container,
+math {
     color: white !important;
+    fill: white !important;
+}
+
+/* Ensure svg paths (used by MathJax) are also white */
+mjx-container svg,
+.MathJax svg {
+    color: white !important;
+    fill: white !important;
 }

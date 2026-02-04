@@ -74,3 +74,11 @@ The thing I was trying to do broke the theme, so I basically reverted backt o 0.
 
 - Fixed Quarto math preview color in dark mode (rendered white for better visibility on navy background).
 - Added essential workbench colors to improve readability of math hovers and previews.
+
+## [0.1.9]
+
+### Fixed:
+
+- More aggressive fix for Quarto Equation sidebar math colors.
+- Expanded CSS selectors to cover KaTeX, MathJax, and various math-related webview elements.
+- Added global `foreground` property to ensure text defaults to white in all workbench areas.
