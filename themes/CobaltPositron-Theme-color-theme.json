@@ -5,6 +5,11 @@
 		"editor.foreground": "#FFFFFF",
 		"activityBarBadge.background": "#1478DB",
 		"sideBarTitle.foreground": "#BBBBBB",
+		"editorHoverWidget.background": "#002240",
+		"editorHoverWidget.foreground": "#FFFFFF",
+		"editorHoverWidget.border": "#1478DB",
+		"textLink.foreground": "#0088FF",
+		"textPreformat.foreground": "#FFFFFF"
 	},
 	"tokenColors": [
 		{

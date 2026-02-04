@@ -67,3 +67,10 @@ A ./media/latex-dark.css file containing:
 }
 
 The thing I was trying to do broke the theme, so I basically reverted backt o 0.1.5.
+
+## [0.1.8]
+
+### Fixed:
+
+- Fixed Quarto math preview color in dark mode (rendered white for better visibility on navy background).
+- Added essential workbench colors to improve readability of math hovers and previews.

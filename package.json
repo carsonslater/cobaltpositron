@@ -3,7 +3,7 @@
   "publisher": "CarsonSlater",
   "displayName": "CobaltPositron",
   "description": "A dark theme based on the Cobalt RStudio theme for Positron (and VS Code).",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.90.0"
@@ -18,6 +18,9 @@
         "uiTheme": "vs-dark",
         "path": "./themes/CobaltPositron-Theme-color-theme.json"
       }
+    ],
+    "markdown.styles": [
+      "./media/latex-dark.css"
     ]
   },
   "repository": {

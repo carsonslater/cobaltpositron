@@ -1,0 +1,6 @@
+/* Making LaTeX render white in Quarto preview */
+.math.inline,
+.math.display,
+.katex {
+    color: white !important;
+}
