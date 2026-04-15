@@ -88,6 +88,10 @@ The thing I was trying to do broke the theme, so I basically reverted backt o 0.
   - `titleBar.activeBackground`
 - Users no longer need to manually add these to `settings.json`.
 
+### Removed:
+
+- Removed aggressive white foreground overrides (`foreground`, `editorHoverWidget.foreground`, `textPreformat.foreground`) that were added in v0.1.8/v0.1.9.
+
 ## [0.1.9]
 
 ### Fixed:
