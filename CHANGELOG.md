@@ -75,6 +75,19 @@ The thing I was trying to do broke the theme, so I basically reverted backt o 0.
 - Fixed Quarto math preview color in dark mode (rendered white for better visibility on navy background).
 - Added essential workbench colors to improve readability of math hovers and previews.
 
+## [0.2.0]
+
+### Added:
+
+- Integrated workbench color customizations directly into the theme so they apply automatically:
+  - `tab.inactiveBackground`, `tab.inactiveForeground`, `tab.activeBackground`, `tab.activeForeground`
+  - `editorGroupHeader.tabsBackground`
+  - `activityBar.background`
+  - `statusBar.background`
+  - `sideBar.background`
+  - `titleBar.activeBackground`
+- Users no longer need to manually add these to `settings.json`.
+
 ## [0.1.9]
 
 ### Fixed:
