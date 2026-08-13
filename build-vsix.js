@@ -89,7 +89,10 @@ const outPath = path.join(__dirname, vsixName);
 if (fs.existsSync(outPath)) {
   fs.unlinkSync(outPath);
 }
-execSync(`cd "${tmpDir}" && zip -r "${outPath}" . -x ".*"`, { stdio: 'inherit' });
+// -r: recursive
+// -X: exclude extra file attributes (e.g., macOS metadata that Open VSX hates)
+// -x: exclude files
+execSync(`cd "${tmpDir}" && zip -rX "${outPath}" . -x ".*" -x "__MACOSX" -x "*.DS_Store"`, { stdio: 'inherit' });
 
 // Clean up
 execSync(`rm -rf "${tmpDir}"`);
